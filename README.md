@@ -4,7 +4,7 @@
 本仓库不定期更新。如果你想自行转换，可以参考下列的转换指南。已适配规则来源：[AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)  [AdAway](https://adaway.org/hosts.txt)
 
 ## 使用 Visual Studio Code 进行规则转换
-本教程涉及正则表达式。如果你想自定义替换规则，请先学习正则表达式。请在操作前将正则表达式搜索打开。
+本教程仅为不熟悉正则表达式的初学者设计。如有错误，欢迎指正。
 ### AdGuard Home 规则
 即简单的 AdBlock 规则，包含注释、拦截规则与放行规则，此处只保留拦截规则。
 
